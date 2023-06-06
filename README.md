@@ -13,13 +13,11 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Here](https://amanrathorecv.netlify.app/) -->
 
-- Currently working as software engineer intern at <img src="https://img.shields.io/badge/Digilocker-5733EA?style=for-the-badge&logoColor=white" align="center" alt="fdf" />
+- Ex-Software Engineer Intern at <img src="https://img.shields.io/badge/Digilocker-5733EA?style=for-the-badge&logoColor=white" align="center" alt="fdf" />
 
-- 💬 Ask me about **Web | Cpp | Blockchain**
+- 💬 Ask me about **Web || Cpp || Blockchain**
 
 - 📫 How to reach me **aman986838@gmail.com**
-
-[![@pranshu's Holopin board](https://holopin.me/pranshu)](https://holopin.io/@pranshu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
