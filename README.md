@@ -78,4 +78,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrathore48" alt="amanrathore48" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanrathore48&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanrathore48&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)
