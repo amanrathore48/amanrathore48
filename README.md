@@ -27,7 +27,7 @@
 <a href="https://auth.geeksforgeeks.org/user/aman986838" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="aman986838"  /></a>
 </p>
 
-![GitHub metrics](https://metrics.lecoq.io/amanrathore48)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/amanrathore48) -->
 
 <h3 align="left">💻 Languages and Tools :</h3>
 
