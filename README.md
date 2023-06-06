@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> , I'm Aman Kumar Singh</h1>
-         <h2>A problem well stated is a problem half solved.</h2>
+         <h3 align="center">A problem well stated is a problem half solved</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amanrathore48&label=Profile%20views&color=0aff33&style=plastic" alt="amanrathore48" /> </p>
 
