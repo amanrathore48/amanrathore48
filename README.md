@@ -10,7 +10,7 @@
          
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p>
 
-- 🌱 I’m currently exploring the world of **Web3**
+- 🌱 **Software Developer** @ **Digital India Corporation**
 
 <!-- - 👨‍💻 All of my projects are available at [Here](https://amanrathorecv.netlify.app/) -->
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web || Cpp || Blockchain**
 
-- 📫 How to reach me **aman986838@gmail.com**
+- 📫 How to reach me **amankrsingh227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
